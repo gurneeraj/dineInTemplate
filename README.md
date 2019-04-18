@@ -20,4 +20,4 @@ We will now add styles to our webpage once the CSS section of the ZTM course is 
 If needed any example on how a template looks like, visit my [Juice Shop Template](https://manolingam.github.io/WebTemplate/)
 
 ## Contributions
-Do include your name in the [Contributors file](./Contributors.txt).
+Do include your name in the [Contributors file](./Contributors.md).
