@@ -101,10 +101,6 @@ nav{
 		margin: 4px;
 		list-style: none;
 	}
-
-	.about {
-		font-size: .8em;
-	}
 }
 
 @media only screen and (max-width: 320px) {
