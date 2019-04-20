@@ -69,8 +69,18 @@ nav{
   	padding: 10px;
 }
 
+.about {
+	padding: 10px;
+	background-color: rgb(223, 86, 62);
+}
+
+.title {
+	color: #123C4D;
+	font-size: 1.2em;
+}
+
 @media only screen and (max-width: 600px) {
-	.main-nav{
+	.main-nav, .about{
 		font-size: .8em;
 	}
 }
@@ -82,7 +92,7 @@ nav{
 		height: 80px;
 		
 	}
-	.main-nav{
+	.main-nav {
 		font-size: .8em;
 		padding-left: 130px
 	}
@@ -90,6 +100,10 @@ nav{
 	.main-nav li{
 		margin: 4px;
 		list-style: none;
+	}
+
+	.about {
+		font-size: .8em;
 	}
 }
 
