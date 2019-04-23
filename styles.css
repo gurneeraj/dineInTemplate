@@ -83,6 +83,9 @@ nav{
 	.main-nav, .about{
 		font-size: .8em;
 	}
+	.punchLine {
+		font-size: 1.5em;
+	}
 }
 
 @media only screen and (max-width: 480px) {
@@ -101,6 +104,9 @@ nav{
 		margin: 4px;
 		list-style: none;
 	}
+	.punchLine {
+		font-size: 1em;
+	}
 }
 
 @media only screen and (max-width: 320px) {
@@ -118,5 +124,8 @@ nav{
 	.main-nav li{
 		margin: 2px;
 		align-content: center;
+	}
+	.punchLine {
+		font-size: .8em;
 	}
 }
